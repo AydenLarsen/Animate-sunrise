@@ -1,0 +1,11 @@
+html {
+  text-align: center;
+}
+
+#cnv {
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  margin-top: 20px;
+  border: 2px solid black;
+}
